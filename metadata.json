@@ -1,0 +1,6 @@
+{
+  "name": "Flora Flowers",
+  "description": "Премиум-салон цветов в г. Балыкчы, Иссык-Кульская область. Эксклюзивные букеты, авторские композиции и бережная люкс-доставка от Flora Flowers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
